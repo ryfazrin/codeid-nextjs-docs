@@ -49,4 +49,4 @@ website # root directory of your site
 .
 ```
 
-selengkapnya [`/src` Directory](/docs/category/sourcesrc-directory).
+selengkapnya [`/src` Directory](/category/sourcesrc-directory).

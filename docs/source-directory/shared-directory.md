@@ -13,7 +13,7 @@ Terdapat beberapa bagian dibawah folder *shared*:
 | Folder | Description |
 |--------|-------------|
 | /api | Folder /api dikhususkan untuk menyimpan segala kebutuhan yang menyangkut dengan request API |
-| /components | Folder /components menyimpan semua komponent yang sudah di custom dan bersifat *reusable*. Lebih lanjut lihat pada bagian [`Custom Component`](./custom-component). |
+| /components | Folder /components menyimpan semua komponent yang sudah di custom dan bersifat *reusable*. Lebih lanjut lihat pada bagian [`Custom Component`](/category/custom-component). |
 | /components/layout | Folder ini berada di bawah folder /components untuk menyimpan Layout seperti Auth Layout dan Private Route Layout |
 | /constants | Folder /constants digunakan untuk menyimpan ENDPOINT dan URL untuk mengelompokkan URL Auth dan Private. |
 | /font | Folder /font untuk menyimpan asset font. |

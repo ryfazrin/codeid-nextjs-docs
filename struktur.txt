@@ -1,0 +1,18 @@
+- Introduction
+
+- Getting started
+ - Instalasi
+   Cara pasang/install boilerplate
+- features
+   Informasi tentang package yang dipakai seperti next.js, ant.design, react-query, axios, eslint
+ - config
+   Cara config next.js, ant.design, react-query, custom Component
+
+- Struktur Folder
+  Gambaran dan penjelasan Struktur folder secara ringkas.
+ - pages
+ - featured
+ - shared
+
+- List Custom Component
+ - 
