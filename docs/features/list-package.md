@@ -12,5 +12,3 @@ Boilerplate ini dibangun menggunakan:
 | Axios | 1.5.x | [Kunjungi](https://axios-http.com/docs/intro) |
 | Ant Design | 5.x.x | [Kunjungi](https://ant.design/) |
 | @ant-design/icons | 5.2.6 | [Kunjungi](https://ant.design/components/icon) |
-
-test
