@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeid_nextjs_docs=self.webpackChunkcodeid_nextjs_docs||[]).push([[5124],{3602:e=>{e.exports=JSON.parse('{"permalink":"/codeid-nextjs-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

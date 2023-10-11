@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeid_nextjs_docs=self.webpackChunkcodeid_nextjs_docs||[]).push([[417],{7599:e=>{e.exports=JSON.parse('{"permalink":"/codeid-nextjs-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
