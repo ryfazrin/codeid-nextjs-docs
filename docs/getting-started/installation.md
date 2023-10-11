@@ -23,7 +23,12 @@ opera >= 53
 
 Anda dapat melakukan download project pada repositori berikut:
 
-[DAPATKAN BOLIERPLATE](https://download.com)
+[DAPATKAN BOILERPLATE v2.0.0-beta.1](https://github.com/ryfazrin/codeid-nextjs-template/releases/tag/v2.0.0-beta.1)
+
+atau anda bisa melakukan clone versi terbaru:
+```bash
+git clone https://github.com/ryfazrin/codeid-nextjs-template.git
+```
 
 atau apabila anda suka menggunakan npm CLI, anda dapat menjalan perintah dibawah ini:
 ```bash
